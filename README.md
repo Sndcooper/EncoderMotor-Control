@@ -127,4 +127,4 @@ Open source for educational and commercial use.
 
 ## Author
 
-CIR (Center for Innovation and Robotics)
+Vilas
